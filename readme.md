@@ -1,5 +1,7 @@
 # Python Flask REST API with MongoDB
 
+Assignment of COMP3122
+
 ### Steps to run the image
 #### 1. To startup the Mongo DB with sample data, git clone the Github repository by executing:
 ```
